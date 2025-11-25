@@ -1,0 +1,27 @@
+
+
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Nat's Brain",
+  "home_page_url": "http://localhost:1313/?utm_source=json_feed",
+  "feed_url": "http://localhost:1313/index.json",
+  "description": "Nat's brain is a blog where I share papers I read, my thoughts on different academical matters and sometimes, some other fun stuff.",
+  "icon": "http://localhost:1313/img/open-graph-logo_hu_1978870e36bf97f6.png",
+  "favicon": "http://localhost:1313/img/open-graph-logo_hu_1978870e36bf97f6.png",
+  "authors": [
+    {
+      "name": "Nathaniel",
+      "url": "https://twitter.com/comp16676935420"
+    }
+  ],
+  "language" : "en",
+  "items": [
+    {
+      "id": "6abbeaf9-2286-5718-f93a-c12efda5dbf1",
+      "url": "http://localhost:1313/posts/improving-journal-club/?utm_source=json_feed",
+      "title": "On Journal Club Presentations",
+      "summary": "Journal clubs, while being an important part of education in medical fields for a long time, have been picked up by engeering students only lately. Specially with start of AI boom and flood of new papers in this field, caught everyone by surprise, and it\u0026rsquo;s practically impossible to read each interesting new paper with the amount of time we have each day. So, there has been a new trend of starting new jounral clubs, specially in computer science \u0026amp; neuroscience, to help students and researchers to get a grasp of what\u0026rsquo;s happening so they don\u0026rsquo;t fall behind new works. I\u0026rsquo;ve been picking some tips on how to present a paper in journal clubs, and I\u0026rsquo;ve summerized them here. You can read the full sources, with links down below.",
+      "date_published": "2024-11-24T00:00:00Z"
+    }
+  ]
+}

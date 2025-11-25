@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="http://localhost:1313/">
+    <title>Nat&#39;s Brain</title>
+    <subtitle type="html"><![CDATA[Nat's brain is a blog where I share papers I read, my thoughts on different academical matters and sometimes, some other fun stuff.]]></subtitle>
+    <link href="/" rel="alternate" type="text/html" title="html" />
+    <link href="/rss.xml" rel="alternate" type="application/rss+xml" title="rss" />
+    <link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="manifest" />
+    <link href="/atom.xml" rel="self" type="text/xml" title="atom" />
+    <link href="/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+    <link href="/index.json" rel="alternate" type="application/json" title="json" />
+    <link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
+    <icon>http://localhost:1313/img/open-graph-logo_hu_1978870e36bf97f6.png</icon>
+    <logo>http://localhost:1313/img/open-graph-logo_hu_1978870e36bf97f6.png</logo>
+    <author>
+        <name>Nathaniel</name>
+        <email>m.mohammadi9812@gmail.com</email>
+    </author>
+    <generator uri="https://gohugo.io" version="0.152.2">Hugo</generator>
+    <updated>2024-11-24T00:00:00Z</updated>
+    <id>urn:uuid:6d116a4d-807d-53e3-09c2-1fde53eae16b</id>
+    <entry>
+        
+        <category term="posts" />
+        
+            
+            <category term="Journal_club" x="y" />
+            
+        
+            
+            <category term="Presentation" x="y" />
+            
+        
+        <link rel="alternate" type="type/html" href="http://localhost:1313/posts/improving-journal-club/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[On Journal Club Presentations]]></title>
+        
+        
+        
+        <published>2024-11-24T00:00:00Z</published>
+        <updated>2024-11-24T00:00:00Z</updated>
+        <id>urn:uuid:6abbeaf9-2286-5718-f93a-c12efda5dbf1</id>
+        
+        <summary type="html"><![CDATA[<p>Journal clubs, while being an important part of education in medical fields for a long time, have been picked up by engeering students only lately.
+Specially with start of AI boom and flood of new papers in this field, caught everyone by surprise, and it&rsquo;s practically impossible to read each interesting new paper with the amount of time we have each day.
+So, there has been a new trend of starting new jounral clubs, specially in computer science &amp; neuroscience, to help students and researchers to get a grasp of what&rsquo;s happening so they don&rsquo;t fall behind new works.
+I&rsquo;ve been picking some tips on how to present a paper in journal clubs, and I&rsquo;ve summerized them here. You can read the full sources, with links down below.</p>]]></summary>
+    </entry>
+</feed>
