@@ -61,22 +61,22 @@ refLinksErrorLevel = 'WARNING'
   # Site icons, relative to ./static
   [params.assets]
     # favicon.ico for legacy browsers
-    favicon = ''
+    favicon = 'favicon.ico'
 
     # A single SVG icon with a light/dark version for modern browsers
     svgicon = ''
 
     # 180×180 PNG image for Apple devices
-    apple_touch_icon = ''
+    apple_touch_icon = 'android-chrome-192x192.png'
 
     # Logo image, relative to ./assets
-    logo = '/img/open-graph-logo.png'
+    logo = ''
     disable_fingerprinting = false
 
   [params.seo]
     # Will be used in schema.org/Organization.
     # The site.Title  will be used if empty.
-    publisher = "Nat (Mo Mohammadi)"
+    publisher = "Nat (Mohammadi)"
 
   showAuthor = false
   [params.author]
